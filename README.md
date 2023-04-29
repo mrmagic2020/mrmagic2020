@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm mrmagic!
 
-<!--
-**mrmagic2020/mrmagic2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` js
+while alive()
+{
+  eat();
+  game();
+  sleep();
+}
 
-Here are some ideas to get you started:
+revive();
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/Game-Minecraft-green)](https://minecraft.net) [![](https://img.shields.io/badge/Game-OpenRCT2-orange)](https://openrct2.org)
