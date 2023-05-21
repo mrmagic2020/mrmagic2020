@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm mrmagic2020!
 
 ``` js
-while alive()
+while (alive)
 {
   eat();
   game();
