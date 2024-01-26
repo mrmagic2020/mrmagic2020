@@ -20,5 +20,5 @@ int main()
 
 [![](https://img.shields.io/badge/Social-Discord-blueviolet?style=for-the-badge&logo=discord)](https://discord.com/invite/5hjCfz9m)
 
-|![Anurag's GitHub stats](https://forked-github-readme-stats-beta.vercel.app/api?username=mrmagic2020&count-private=true&show_icons=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20Stats&ring_color=fccf03) | [![Top Langs](https://forked-github-readme-stats-beta.vercel.app/api/top-langs/?username=mrmagic2020&langs_count=6&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+|![Anurag's GitHub stats](https://forked-github-readme-stats-beta.vercel.app/api?username=mrmagic2020&count-private=true&show_icons=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20Stats&ring_color=fccf03) | [![Top Langs](https://forked-github-readme-stats-beta.vercel.app/api/top-langs/?username=mrmagic2020&langs_count=6&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,Roff,HLSL)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
