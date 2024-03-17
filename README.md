@@ -8,7 +8,7 @@ int main()
   while (life::alive)
   {
     life::eat();
-    life::game();
+    life::code();
     life::sleep();
   }
 
