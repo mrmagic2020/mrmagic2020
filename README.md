@@ -22,5 +22,3 @@ int main()
 
 |![Anurag's GitHub stats](https://forked-github-readme-stats-beta.vercel.app/api?username=mrmagic2020&count-private=true&show_icons=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20Stats&ring_color=fccf03) | [![Top Langs](https://forked-github-readme-stats-beta.vercel.app/api/top-langs/?username=mrmagic2020&langs_count=6&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,Roff,HLSL,Rich%20Text%20Format)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrmagic2020&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true)
